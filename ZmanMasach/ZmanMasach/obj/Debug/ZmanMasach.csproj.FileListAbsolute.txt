@@ -1,0 +1,24 @@
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.exe.config
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.exe
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.pdb
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Form_Zman_Masach_Knisa.resources
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.exe
+c:\users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.pdb
+C:\Users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.MoneZman.resources
+C:\Users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Halon_Siyum_Zman.resources
+C:\Users\david\documents\visual studio 2017\Projects\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Hosft_Mishtamesh.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.exe.config
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.exe
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\bin\Debug\ZmanMasach.pdb
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Halon_Siyum_Zman.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Hosft_Mishtamesh.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Form_Zman_Masach_Knisa.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.MoneZman.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.Properties.Resources.resources
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.exe
+C:\Users\david\Desktop\נחמן יהודה\ZmanMasach\ZmanMasach\obj\Debug\ZmanMasach.pdb
